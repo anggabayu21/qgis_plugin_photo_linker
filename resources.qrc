@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PhotoLinker" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
